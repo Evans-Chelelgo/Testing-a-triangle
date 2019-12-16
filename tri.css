@@ -1,0 +1,39 @@
+.tri {
+    padding-left: 400px;
+    height: 100%;
+    width: 100%;
+    margin: solid 3px;
+    background-color: rgb(232, 238, 234)
+
+}
+.col-sm-3{
+    background-color:rgb(227, 227, 241);
+}
+.form-group {
+    display: absolute;
+    background-color: #ffffff;
+    border-radius: 20%;
+    border:1px solid blue;
+    padding: 8px 0px;
+    margin: 12px 0px;
+    overflow: hidden;
+}
+    .form-inline {
+        border: 0px solid brown;
+        display: inline-block;
+        background-color:whitesmoke;
+
+
+    }
+    .control-label{
+        display: inline;
+        padding: 12px 0px;
+        padding: 0px;     
+        
+    }
+.btn-btn-default{
+    background-color: cornsilk;
+}
+.btn-btn-default:hover{
+    background-color: blue;
+}

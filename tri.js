@@ -17,5 +17,3 @@ alert ("This is an equilateral triangle");
     alert ("This is an Isosceles triangle");
 }
 }
-
-
